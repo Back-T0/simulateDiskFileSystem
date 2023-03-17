@@ -24,15 +24,17 @@
 
 ###  ↓顶层流程图↓
 
-![](./media/image1.emf)
+![](./media/image1.png){width="5.768055555555556in"
+height="4.946527777777778in"}
 
 ###  ↓文件管理系统功能图↓
 
-![](./media/image2.emf)
+![](./media/image2.png){width="5.768055555555556in" height="5.1375in"}
 
 ###  ↓磁盘管理系统功能图↓
 
-![](./media/image3.emf)
+![](./media/image3.png){width="5.768055555555556in"
+height="6.038888888888889in"}
 
 # 三、详细设计
 
