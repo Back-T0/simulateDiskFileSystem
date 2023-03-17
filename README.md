@@ -1,5 +1,3 @@
-详细文档请点击[simulateADiskFileSystem.md](https://github.com/Back-T0/simulateDiskFileSystem/blob/master/simulateADiskFileSystem.md)。
-
 # 一、需求分析
 
 ##  1.课程设计目的
@@ -67,3 +65,5 @@ IDE：VisualStudio2019
 支持多级树形目录显示
 
 支持通过已打开文件列表进行读写操作
+
+详细文档请点击[simulateADiskFileSystem.md](https://github.com/Back-T0/simulateDiskFileSystem/blob/master/simulateADiskFileSystem.md)。
