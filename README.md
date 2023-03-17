@@ -1,3 +1,5 @@
+详细文档请点击[simulateADiskFileSystem.md](https://github.com/Back-T0/simulateDiskFileSystem/blob/master/simulateADiskFileSystem.md)。
+
 # 一、需求分析
 
 ##  1.课程设计目的
