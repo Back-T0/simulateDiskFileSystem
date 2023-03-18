@@ -66,4 +66,4 @@ IDE：VisualStudio2019
 
 支持通过已打开文件列表进行读写操作
 
-详细文档请点击[simulateADiskFileSystem.md](https://github.com/Back-T0/simulateDiskFileSystem/blob/master/simulateADiskFileSystem.md)。
+详细文档请点击[说明文档.md](https://github.com/Back-T0/simulateDiskFileSystem/blob/master/说明文档.md)。
